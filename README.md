@@ -23,10 +23,19 @@
 * Install nodemcu_imager 
 
 # Flashing deauther 
+* Connect D3 with GND
+* Run NodeMCU flasher at  :
+  nodemcu-flasher-master\nodemcu-flasher-master\Win64\Release\ESP8266Flasher.exe
+  or
+  nodemcu-flasher-master\nodemcu-flasher-master\Win32\Release\ESP8266Flasher.exe
+* In operation, Change port com as COMx
+* In config, change with the firmeware v2 or v3
+* In Advanced, change bauderate as Y at the first step
 
 # Installing huhnitor
 (in my case, I use ubuntu 22.04)
 sudo snap install huhnitor --edge --devmode  
+  
 use command :
 scan
 ap -s fakenet
