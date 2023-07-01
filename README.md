@@ -31,14 +31,19 @@
 * In operation, Change port com as COMx
 * In config, change with the firmeware v2 or v3
 * In Advanced, change bauderate as Y at the first step
-
+* After successfull flashing, don't connect D3 with GND anymore
+  
 # Installing huhnitor
-(in my case, I use ubuntu 22.04)
+(in my case, I use ubuntu 22.04)  
+
 sudo snap install huhnitor --edge --devmode  
   
-use command :
-scan
-ap -s fakenet
+use command :  
+
+scan  
+
+ap -s fakenet  
+
 
 
 # Documentation : 
