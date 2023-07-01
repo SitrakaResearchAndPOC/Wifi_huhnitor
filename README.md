@@ -4,7 +4,7 @@
 * Devices : NodeMCU, ESP8266, deauther DSTIKE, deauther Watch DSTIKE
 * Tested devices : NodeMCU
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
-(In my case, it's CP21x)
+(In my case, it's [CP21x](https://drive.google.com/file/d/18dX5ws61_A4EaHKuIYNDSMMeMPuJHZG5/view?usp=drive_link))
 
 # Finding port of NodeMCI
 * Plug NodeMCU
