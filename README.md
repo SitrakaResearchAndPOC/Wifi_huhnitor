@@ -13,18 +13,33 @@
 * remind the number of port come noted as COMX
 * click on COMx and click "all parameters" memories the baudrates note as Y 
 * Close all
-# Downloading  NodeMCU
-unzip nodemcu_imager :
 
-# Downloading firmeware of deauther
+# Downloading firmeware of deauther (v2 or v3)
+* [v2](https://drive.google.com/file/d/1SDlyzD_QpOFj55N8Bah1HXs3y6TlexMn/view?usp=drive_link)
+* [v3](https://drive.google.com/file/d/1WL7oKunPQWnsbr8DNvbqR_WbKbHOmUb9/view?usp=drive_link)
+  
+# Installing  NodeMCU flash imager
+* Download [NodeMCU_flash_imager](https://drive.google.com/file/d/1M3NqRjzG0mOo1vpVfecNPRZFp75qAmy6/view?usp=drive_link)
+* Install nodemcu_imager 
 
+# Flashing deauther 
 
 # Installing huhnitor
 (in my case, I use ubuntu 22.04)
-
+sudo snap install huhnitor --edge --devmode  
+use command :
+scan
+ap -s fakenet
 
 
 # Documentation : 
 * https://blog.spacehuhn.com/difference-between-the-deauther-v2-and-v3
 * https://www.pololu.com/docs/0J7/all
 * https://github.com/nodemcu/nodemcu-flasher
+* https://github.com/SpacehuhnTech/Huhnitor
+* https://deauther.com/docs/version3/
+* https://github.com/SpacehuhnTech/esp8266_deauther/tree/v3
+* https://blog.spacehuhn.com/install-deauther
+* https://github.com/SpacehuhnTech/esp8266_deauther/releases
+* https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation
+* https://github.com/SpacehuhnTech/nightly-deauther/releases/tag/nightly
