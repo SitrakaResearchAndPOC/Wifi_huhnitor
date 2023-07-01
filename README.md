@@ -1,7 +1,7 @@
 # Huhnitor
 * Tools by spacehuhn for hacking a wifi
 * Could be used as scan, deauthentication, fake ap with evilportal
-* Devices : NodeMCU, ESP8266, deauther DSTIKE, deauther Watch
+* Devices : NodeMCU, ESP8266, deauther DSTIKE, deauther Watch DSTIKE
 * Tested devices : NodeMCU
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
 (In my case, it's CP21x)
