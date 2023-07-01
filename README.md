@@ -46,7 +46,7 @@ ap -s fakenet
 
 
 
-# Documentation : 
+# Documentations : 
 * https://blog.spacehuhn.com/difference-between-the-deauther-v2-and-v3
 * https://www.pololu.com/docs/0J7/all
 * https://github.com/nodemcu/nodemcu-flasher
