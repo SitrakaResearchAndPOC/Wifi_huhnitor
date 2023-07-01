@@ -6,7 +6,7 @@
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
 (In my case, it's [CP21x](https://drive.google.com/file/d/18dX5ws61_A4EaHKuIYNDSMMeMPuJHZG5/view?usp=drive_link))
 
-# Finding port of NodeMCI
+# Finding port of NodeMCU
 * Plug NodeMCU
 * search : "devices manager" and click it
 * click "Ports (COM and LTP)"
