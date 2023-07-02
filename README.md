@@ -46,8 +46,14 @@ scan
 ap -s fakenet  
 
 # Remark about deauther v2 (it's possible to use fonctionnality using web app)
-SSID : spacehuhn
-Password : deauther
+SSID : spacehuhn or pwned  
+Password : deauther  
+1.Scan for WiFi networks.  
+2.Connect to pwned with the password deauther.  
+3.Open 192.168.4.1 (or deauth.me)  
+
+
+[using](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Web)  
 
 # Documentations : 
 * https://blog.spacehuhn.com/difference-between-the-deauther-v2-and-v3
