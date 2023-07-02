@@ -37,14 +37,17 @@
 (in my case, I use ubuntu 22.04)  
 
 sudo snap install huhnitor --edge --devmode  
-  
+
+# Testing huhnitor command
 use command :  
 
 scan  
 
 ap -s fakenet  
 
-
+# Remark about deauther v2 (it's possible to use fonctionnality using web app)
+SSID : spacehuhn
+Password : deauther
 
 # Documentations : 
 * https://blog.spacehuhn.com/difference-between-the-deauther-v2-and-v3
