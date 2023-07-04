@@ -5,6 +5,9 @@
 * Tested devices : NodeMCU
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
 (In my case, it's [CP21x](https://drive.google.com/file/d/18dX5ws61_A4EaHKuIYNDSMMeMPuJHZG5/view?usp=drive_link))
+* [CH34xG](https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
+* [FTDI and FT232RL](https://ftdichip.com/drivers/)
+* [CP210x](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
 # Finding port of NodeMCU
 * Plug NodeMCU
