@@ -93,7 +93,7 @@ lxc exec Huhnitor -- bash
 For mine : 
 Instance published with fingerprint: e76e32fa59919dca732bdf5b46b3ab47559cd0862931be8dd67964a6ebd4b9dd
 
-# Exporiting Huhnitor LXC
+# Exporting Huhnitor LXC
 
 ```
 lxc publish Huhnitor --alias Huhnitor -f
